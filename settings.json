@@ -1,0 +1,144 @@
+{
+  "RTX_MODE": [
+    {
+      "SettingName": "app_type",
+      "Action": "panel"
+    },
+    {
+      "SettingName": "panelURL",
+      "Action": "https://SEU-USUARIO.github.io/dns-config/settings.json"
+    },
+    {
+      "SettingName": "support_email",
+      "Action": ""
+    },
+    {
+      "SettingName": "support_phone",
+      "Action": ""
+    },
+    {
+      "SettingName": "versioncode",
+      "Action": "801"
+    },
+    {
+      "SettingName": "apkurl",
+      "Action": "https://download.ottrun.com/downloads/521064/XCIPTV-5.0.1-v706.apk"
+    },
+    {
+      "SettingName": "apkautoupdate",
+      "Action": "no"
+    },
+    {
+      "SettingName": "agent",
+      "Action": "XCIPTV-v6.0"
+    },
+    {
+      "SettingName": "admob_interstitial_id",
+      "Action": "no"
+    },
+    {
+      "SettingName": "AdMob_enabled",
+      "Action": "no"
+    },
+    {
+      "SettingName": "appname",
+      "Action": "NexusTV"
+    },
+    {
+      "SettingName": "admob_banner_id",
+      "Action": "no"
+    },
+    {
+      "SettingName": "panel",
+      "Action": "xtreamcodes"
+    },
+    {
+      "SettingName": "stream_type",
+      "Action": "ts"
+    },
+    {
+      "SettingName": "player",
+      "Action": "EXO"
+    },
+    {
+      "SettingName": "language",
+      "Action": "pt"
+    },
+    {
+      "SettingName": "servers",
+      "Action": [
+        {
+          "display_name": "ATMOS",
+          "dns_urls": [
+            "http://cdngckt.xyz",
+            "http://atmx.online"
+          ]
+        },
+        {
+          "display_name": "TTR",
+          "dns_urls": [
+            "http://raioplix.fun",
+            "http://p2bin.pro",
+            "http://p2bin.fun",
+            "http://newsttr2025.click",
+            "http://dxs30.my",
+            "http://dxs30.site",
+            "http://15xc.site",
+            "http://ttrplay.fun:80",
+            "http://appp2jscdn.com.br",
+            "http://beethovendog.fun",
+            "http://wolfplus.org"
+          ]
+        },
+        {
+          "display_name": "Netplay",
+          "dns_urls": [
+            "http://cdn.dnsprotected.net",
+            "http://dnscine.top:80",
+            "http://sigcine1.space:80",
+            "http://attech.site",
+            "http://nplaysolar.shop"
+          ]
+        },
+        {
+          "display_name": "ODIN",
+          "dns_urls": [
+            "http://sadmaxplus.top",
+            "http://upstg.fun",
+            "http://cdn.superodin.site",
+            "http://ofmp.site",
+            "http://apexplayer.site",
+            "http://odinsuper100.top",
+            "http://sevemmax.shop",
+            "http://ratinhov10.fun",
+            "http://superodin.site",
+            "http://ofmp.site"
+          ]
+        },
+        {
+          "display_name": "SLIM TV",
+          "dns_urls": [
+            "http://pepita.top",
+            "http://onixsmart.top"
+          ]
+        },
+        {
+          "display_name": "ONPIX",
+          "dns_urls": [
+            "http://dnscine.top:80",
+            "http://arenagame.store:80",
+            "http://arenaplay.shop:80",
+            "http://fripnt.xyz",
+            "http://alptv.xyz",
+            "http://attech.site:80",
+            "http://onx.pxlst.site",
+            "http://cdn.ddns7.site",
+            "http://on.pxlst.site",
+            "http://dns.ligados.pro",
+            "http://seliga.fun"
+          ]
+        }
+      ]
+    }
+  ]
+}
